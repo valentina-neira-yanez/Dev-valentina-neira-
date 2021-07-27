@@ -1,0 +1,51 @@
+body{
+    background-color:black;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1{
+   color:mediumspringgreen;
+   font-size: 40px;
+}
+
+a p{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.red{
+    font-family:serif;
+    color:red;
+}
+
+
+h2{
+    color:darkcyan;
+    font-size: 20px;
+}
+
+.green{
+    color:green;
+}
+
+h3{
+    color:darkmagenta;
+    font-size: 19px;
+}
+
+h4{
+    color: mediumblue;
+}
+
+
+.white{
+    font-family: serif;
+    color:white;
+}
+a[href="https://www.google.com/"]{
+    border-color: blueviolet;
+}
